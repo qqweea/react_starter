@@ -4,7 +4,7 @@ const initialState = {};
 
 export default (state = initialState, action) => {
   switch (action.type) {
-    case TYPES.CUSTOM_ACTION:
+    case TYPES.DEFAULT_ACTION:
       return {
         ...state,
         stateAdd: {

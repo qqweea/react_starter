@@ -1,1 +1,1 @@
-export const CUSTOM_ACTION = "CUSTOM_ACTION";
+export const DEFAULT_ACTION = "DEFAULT_ACTION";
